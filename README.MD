@@ -19,3 +19,6 @@ Python >= 3.8 and the following libraries:
 
 ```bash
 pip install skyfield numpy matplotlib
+
+
+![Solar System](Images/planets_a3.png)
