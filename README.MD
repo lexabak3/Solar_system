@@ -16,7 +16,9 @@ The output can be generated either as a **Matplotlib plot** or as **pixel coordi
 ## 📦 Requirements
 
 Python >= 3.8 and the following libraries:
-
+```bash
+pip install skyfield numpy matplotlib
+```
 
 
 ![Solar System](Images/planets_a3.png)
